@@ -1,34 +1,47 @@
 <h1 align="center">Hasnat Azam</h1>
 
-<p align="center"><strong>Software Engineer</strong><br />Flutter · Dart · Node.js</p>
-
 <p align="center">
-  Building mobile products and backend services with a focus on clarity, reliability, and maintainable code.
+  <strong>Software Engineer</strong><br>
+  Flutter · Dart · Node.js · Backend Systems
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasnatazam2200/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ha.pallab@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/hasnatazam2200/">LinkedIn</a> ·
+  <a href="mailto:ha.pallab@gmail.com">Email</a> ·
   <a href="https://github.com/AzamHasnat">GitHub</a>
 </p>
 
 ---
 
-### Profile
+## About
 
-Software engineer based in Bangladesh, working across Flutter mobile development and Node.js backend development. Interested in building thoughtful, end-to-end software and continuously improving the quality of the systems behind it.
+Software engineer based in Bangladesh, focused on building reliable mobile applications and backend systems. I work with Flutter and Dart for client-side development and Node.js for service-layer logic, with a strong emphasis on clean architecture, maintainability, and practical product delivery.
 
-### Focus
+## Core Skills
 
-| Area | Technologies |
-| --- | --- |
-| Mobile | Flutter, Dart |
-| Backend | Node.js, JavaScript |
+- Mobile Development: Flutter, Dart
+- Backend Development: Node.js, JavaScript
+- API Integration and Service Design
+- Application Architecture and Maintainable Code
+- Git and Version Control
+- Firebase and app lifecycle workflows
 
-### Contact
+## Selected Projects
 
-Bangladesh · [Email](mailto:ha.pallab@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hasnatazam2200/)
+- [ABCL IT Employee App](https://github.com/AzamHasnat/Abcl_It-Employee-App) — Employee management mobile application
+- [A2Z Employee App](https://github.com/AzamHasnat/A2Z-Employee-App) — Employee-focused Flutter application
+- [Employee App API](https://github.com/AzamHasnat/Employee-App-API) — Node.js backend API for employee operations
+- [Smart Compare Assistance](https://github.com/AzamHasnat/smart-compare-assistance) — Flutter-based comparison support application
+- [NBS Test](https://github.com/AzamHasnat/Nbs-Test) — Dart-based application project
+
+## Contact
+
+- Email: [ha.pallab@gmail.com](mailto:ha.pallab@gmail.com)
+- LinkedIn: [linkedin.com/in/hasnatazam2200](https://www.linkedin.com/in/hasnatazam2200/)
+- Location: Bangladesh
 
 ---
 
-<p align="center"><sub>Thoughtful software. Clear engineering. Continuous improvement.</sub></p>
+<p align="center">
+  <sub>Focused on building clear, scalable, and dependable software.</sub>
+</p>
