@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong><br>
-  Flutter · Dart · Node.js · API Development · Databases
+  Flutter · Dart · Node.js · REST APIs · Databases
 </p>
 
 <p align="center">
@@ -15,16 +15,16 @@
 
 ## Profile
 
-I’m a software engineer based in Bangladesh focused on delivering reliable mobile and backend solutions. I build Flutter applications, develop Node.js services and APIs, and work with relational and local databases. I take a practical, end-to-end approach to engineering, with an emphasis on maintainable code and dependable integrations.
-
-My work includes employee-focused mobile applications and their supporting backend APIs, as well as application development for comparison and assistance workflows.
+I’m a software engineer based in Bangladesh focused on building reliable mobile and backend solutions. I develop Flutter applications and Node.js services, design and integrate REST APIs, and work with relational and local databases. My work spans employee-focused mobile apps, supporting backend APIs, and application features for comparison and assistance workflows.
 
 ## Technical Expertise
 
 - **Mobile:** Flutter, Dart
+- **State management:** Provider, Riverpod, BLoC
 - **Backend:** Node.js, JavaScript
-- **APIs:** API development, integration, and service communication
+- **APIs:** REST API development and integration
 - **Databases:** MySQL, PostgreSQL, SQLite (sqflite)
+- **CI/CD:** Continuous integration and delivery workflows
 - **Tools and services:** Git, Firebase
 
 ## Contact
